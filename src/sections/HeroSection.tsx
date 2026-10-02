@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { Play, ChevronRight, BookOpen } from 'lucide-react'
-import { fadeDown, fadeLeft, fadeUp, staggerContainer, floatingAnimation } from '../motion/variants'
+import { fadeLeft, fadeUp, staggerContainer, floatingAnimation } from '../motion/variants'
 
 const stats = [
   { value: '136+', label: 'Courses' },

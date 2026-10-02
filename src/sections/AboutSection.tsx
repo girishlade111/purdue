@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { GraduationCap, Award, ScrollText, ArrowRight, Play } from 'lucide-react'
-import { fadeUp, fadeRight, fadeLeft, staggerContainer } from '../motion/variants'
+import { fadeUp, fadeLeft, staggerContainer } from '../motion/variants'
 
 const aboutFeatures = [
   {
